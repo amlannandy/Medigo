@@ -1,3 +1,6 @@
 [submodule "MedigoUser"]
 	path = MedigoUser
 	url = https://github.com/amlannandy/MedigoUser.git
+[submodule "MedigoDoctor"]
+	path = MedigoDoctor
+	url = https://github.com/amlannandy/MedigoDoctor.git
