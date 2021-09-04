@@ -25,6 +25,18 @@ This project consists of 3 different applications, 2 `mobile` and 1 `web`.
   * Consult patients only via `text messaging` or `audio/video calling`.
   * After a consultation, issue a prescription to the patient with your digital signature.
 * **Screenshots** -
+<div style="flex-direction: row;">
+  <img src="https://user-images.githubusercontent.com/45410599/132083985-22fabd02-3937-4b75-95d3-b5e2639e0d94.jpg" width="150px" style="margin-right: 10px;" alt="">
+  <img src="https://user-images.githubusercontent.com/45410599/132084000-e8176dda-2915-4fd2-92ac-d2619446eb1a.jpg" width="150px" style="margin-right: 10px;" alt="">
+ <img src="https://user-images.githubusercontent.com/45410599/132084016-e508e3ed-58b2-4e75-b675-2828f3149844.jpg" width="150px" style="margin-right: 10px;" alt="">
+  <img src="https://user-images.githubusercontent.com/45410599/132084038-4668cfe0-d7e4-4126-83bb-2f592acefa13.jpg" width="150px" alt="">
+</div>
+<div style="flex-direction: row;">
+  <img src="https://user-images.githubusercontent.com/45410599/132084055-830c907d-0293-4e1b-b401-b95bab8f40f7.jpg" width="150px" style="margin-right: 10px;" alt="">
+  <img src="https://user-images.githubusercontent.com/45410599/132084105-3ce1aa0a-64b6-4efb-a691-d72b90593dae.jpg" width="150px" style="margin-right: 10px;" alt="">
+ <img src="https://user-images.githubusercontent.com/45410599/132084112-c3edb2f4-9565-428f-aadc-3ee1b252ffc1.jpg" width="150px" style="margin-right: 10px;" alt="">
+  <img src="https://user-images.githubusercontent.com/45410599/132084114-6c2fd0f8-9c6c-4057-8c38-da35c96ca4ec.jpg" width="150px" alt="">
+</div>
 
 ### 2. Medigo Doctor
 
