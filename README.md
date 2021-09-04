@@ -48,7 +48,12 @@ This project consists of 3 different applications, 2 `mobile` and 1 `web`.
   * Consult patients only via `text messaging` or `audio/video calling`.
   * After a consultation, issue a prescription to the patient with your digital signature.
 * **Screenshots** -
-
+<div style="flex-direction: row;">
+  <img src="https://user-images.githubusercontent.com/45410599/132084163-19441e18-9f4f-4a4e-97ff-5c5de5163277.jpg" width="150px" style="margin-right: 10px;" alt="">
+  <img src="https://user-images.githubusercontent.com/45410599/132084171-7206c4a7-7825-4fcf-900c-2070390b29a8.jpg" width="150px" style="margin-right: 10px;" alt="">
+ <img src="https://user-images.githubusercontent.com/45410599/132084189-dde03889-11c1-4de9-a407-4e37716879de.jpg" width="150px" style="margin-right: 10px;" alt="">
+  <img src="https://user-images.githubusercontent.com/45410599/132084209-0624c0e8-c250-4f6b-a49b-757e40cb66e4.jpg" width="150px" alt="">
+</div>
 
 ### 3. Medigo Admin
 * Web application made using `React.js` for doctors to manage their online consultations and clinic data.
